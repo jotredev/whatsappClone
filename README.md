@@ -4,7 +4,7 @@ Necesitarás tener instalado ``` node.js ``` a partir de la versión 14 y tener 
 >
 1. Necesitamos clonar el proyecto añadiendo la siguiente linea de comando en una terminal
 ```
-git clone https://github.com/jotredev/dashboard-store-v1.git
+git clone https://github.com/jotredev/whatsappClone.git
 ```
 >
 2. Entramos a la carpeta que acabamos de clonar e instalamos las dependencias necesarias
